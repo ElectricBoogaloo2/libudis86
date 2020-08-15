@@ -86,4 +86,4 @@ This fork of Udis86 contains contributions courtesy of contributors from:
 * https://github.com/bSr43/udis86
 * https://github.com/hasherezade/udis86
 * https://github.com/Fonger/udis86
-
+* https://github.com/falconkirtaran/udis86
