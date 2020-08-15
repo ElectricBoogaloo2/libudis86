@@ -72,3 +72,4 @@ _ReSharper*/
 *.tar.gz
 tests/bufoverrun
 tests/symresolve
+udis86.pc.in
